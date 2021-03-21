@@ -21,7 +21,7 @@ https://explorer-mumbai.maticvigil.com/address/0x679803912F0c4d7665df3c9346C4Ae6
 curl -X POST -H 'Content-Type: application/json' https://us-central1-libertasswap.cloudfunctions.net/mint-nft-matic -d '{"address": "0x744D8d9d64E19669E1Cb21EB5e872e8F1BCA6646", "gas_price":"1.4"}'
 ```
 
-## with the stored in the flamethrower they are held there till they are sent to 0x0.
+## with token stored in the flamethrower they are held there till they are used (spent or sent to 0x0).
 [![](http://img.youtube.com/vi/xESYIHffsc0/0.jpg)](http://www.youtube.com/watch?v=xESYIHffsc0 "")
 
 
