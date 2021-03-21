@@ -2,6 +2,7 @@
 The Not Flame Thrower Token - Burning things rare or not.
 ### Prizes
 Use of Matic for NFT  - https://explorer-mumbai.maticvigil.com/address/0x679803912F0c4d7665df3c9346C4Ae64A65b7bC0
+Pinata for IPFS pinning
 IPFS for hosting burned artifacts
 ```
 {
