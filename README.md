@@ -3,8 +3,19 @@ The Not Flame Thrower Token - Burning things rare or not.
 ### Prizes
 Use of Matic for NFT  - https://explorer-mumbai.maticvigil.com/address/0x679803912F0c4d7665df3c9346C4Ae64A65b7bC0
 IPFS for hosting burned artifacts
-
-
+```
+{
+  IpfsHash: 'QmPCFTr3iw3n2DHkBLJsH8DK7gXjdnXKC1k3Kn7LG8zHGg',
+  PinSize: 3202304,
+  Timestamp: '2021-03-21T16:04:47.924Z'
+}
+(base) ➜  NFTminter git:(main) ✗ node test.js
+{
+  IpfsHash: 'QmPCFTr3iw3n2DHkBLJsH8DK7gXjdnXKC1k3Kn7LG8zHGg',
+  PinSize: 3202304,
+  Timestamp: '2021-03-21T16:04:47.924Z'
+}
+```
 ## Starting with the Boring Company Flamethrower
 
 ![not a flamethrower](https://images.squarespace-cdn.com/content/v1/5915617137c58104451ac5fb/1547102278389-T1626TUAKA8ENDM7YXHI/ke17ZwdGBToddI8pDm48kBbdSUIHrnfszC0Uv-s6NXNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHVFCHbO600DSvoILJ4oa2QnThAdi_sonYsmMjm7Z6bbO87Nsj43NRAr6WuWZv5DKs/giphy.gif?format=500w)
