@@ -17,9 +17,9 @@ This wallet also sends the request to the arduino for verification, it checks to
 
 ## Now we can quickly issue burnable tokens to folks to be used with the art piece.
 https://explorer-mumbai.maticvigil.com/address/0x679803912F0c4d7665df3c9346C4Ae64A65b7bC0/transactions
-'''
+```
 curl -X POST -H 'Content-Type: application/json' https://us-central1-libertasswap.cloudfunctions.net/mint-nft-matic -d '{"address": "0x744D8d9d64E19669E1Cb21EB5e872e8F1BCA6646", "gas_price":"1.4"}'
-'''
+```
 
 ## with the stored in the flamethrower they are held there till they are sent to 0x0.
 [![](http://img.youtube.com/vi/xESYIHffsc0/0.jpg)](http://www.youtube.com/watch?v=xESYIHffsc0 "")
