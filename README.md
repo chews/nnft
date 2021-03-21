@@ -1,5 +1,11 @@
 # nnft
-The Not Flame Thrower Token - Burning things rare or not.
+The Not Flame Thrower Token - Burning things rare or not. The NNFT challenges you to think about impermanance, value, and what does art really mean?
+The Not Fame Thrower from the Boring Company was a drop of a rare item, we've taken that item and made it a digital maker of rare items.
+
+This forge is really just a smart contract paried with IPFS pinning, but it is a fun way to look at the creation of burnable NFTS.
+
+To get around the gas problem (hahahaha see what I did there) I'm leveraging the Matic chain, google cloud functions handle the IOT and pinning cause the arduino is too underpowered. The smartphone coordinates contract spends.
+
 ### Prizes
 Use of Matic for NFT  - https://explorer-mumbai.maticvigil.com/address/0x679803912F0c4d7665df3c9346C4Ae64A65b7bC0
 Pinata for IPFS pinning
